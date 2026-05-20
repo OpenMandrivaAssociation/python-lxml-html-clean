@@ -2,7 +2,7 @@
 %define oname lxml_html_clean
 
 Name:		python-lxml-html-clean
-Version:	0.4.4
+Version:	0.4.5
 Release:	1
 Summary:	HTML cleaner from lxml project
 License:	BSD-3-Clause
